@@ -7,7 +7,7 @@ City of Chattanooga Open Data Policy
 
 **WHEREAS,** the City of Chattanooga is committed to improving the community by fostering open, transparent, valuable, accountable, and accessible government functions; and,
 
-**WHEREAS,** by removing barriers to data, the City  of Chattanoogaseeks to develop opportunities for economic development, commerce, increased investment and civic engagement; and,
+**WHEREAS,** by removing barriers to data, the City  of Chattanooga seeks to develop opportunities for economic development, commerce, increased investment and civic engagement; and,
 
 **WHEREAS,** the City of Chattanooga commits to working to enable data captured and used by the City to be more easily accessible by people and machines, while at the same time protecting privacy and the rights of others; and,
 
