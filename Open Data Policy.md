@@ -5,7 +5,7 @@ City of Chattanooga Open Data Policy
 
 **A RESOLUTION INDICATING THE INTENT OF THE CITY OF CHATTANOOGA ("CITY") TO ENSURE OPEN ACCESS TO PUBLIC DATA BY DECLARING DATA OPEN BY DEFAULT **
 
-**WHEREAS,** the City of Chattanooga is committed to improving the copmmunity by fostering open, transparent, valuable, accountable, and accessible government functions; and,
+**WHEREAS,** the City of Chattanooga is committed to improving the community by fostering open, transparent, valuable, accountable, and accessible government functions; and,
 
 **WHEREAS,** by removing barriers to data, the City  of Chattanoogaseeks to develop opportunities for economic development, commerce, increased investment and civic engagement; and,
 
